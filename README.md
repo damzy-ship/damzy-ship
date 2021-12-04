@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damilola Aguda
-- 👀 I’m interested in Data Science and Machine learning with python
-- 🌱 I’m currently learning Data structures and Alogorithms
+- 👀 I’m interested in Full stack web technologies
+
 
 
 <!---
